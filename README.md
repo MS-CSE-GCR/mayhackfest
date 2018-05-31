@@ -24,12 +24,13 @@ Integrate the deployed API into RIB MTWO system.
 [https://academy.microsoft.com/en-us/tracks/artificial-intelligence](https://academy.microsoft.com/en-us/tracks/artificial-intelligence)
 [NLP course - https://www.edx.org/course/natural-language-processing-nlp](https://www.edx.org/course/natural-language-processing-nlp)[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 
-* Algorithms
+* Algorithms and Tools
 [Med2Vec](https://github.com/mp2893/med2vec)
 [Word2Vec](https://code.google.com/p/word2vec/)
 [fasttext](https://github.com/facebookresearch/fastText)
 [GloVe](https://nlp.stanford.edu/projects/glove/)
 [Elmo](http://allennlp.org/elmo)
+[NLTK](https://github.com/nltk/nltk)
 
 * Azure Services
 [Azure Data Science Virtual Machine](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
